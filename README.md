@@ -30,9 +30,13 @@ npm run coverage
 
 To build the default contract so that it can be used with UI application, run this command from the 04-zkapp-browser-ui/contracts directory:
 
-$ npm run build
+```sh
+npm run build
+```
 
 
 To start the development server and serve your UI application at the URL localhost:3000:
 
-$ npm run dev
+```sh
+npm run dev
+```
