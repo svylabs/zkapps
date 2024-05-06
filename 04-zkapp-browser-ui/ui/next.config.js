@@ -9,7 +9,7 @@ const nextConfig = {
       o1js: require('path').resolve('node_modules/o1js'),
     };
     config.experiments = { ...config.experiments, topLevelAwait: true };
-    config.optimization.minimizer = [];
+    // config.optimization.minimizer = [];
     return config;
   },
   // To enable o1js for the web, we must set the COOP and COEP headers.

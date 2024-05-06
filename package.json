@@ -39,6 +39,7 @@
     "o1js": "1.*"
   },
   "dependencies": {
+    "react": "^18.3.1",
     "snarkyjs": "^0.12.1"
   }
 }
